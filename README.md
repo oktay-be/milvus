@@ -9,6 +9,11 @@ docker compose up -d
 # frontend
 zilliz/attu:v2.2.6 is added
 
+# credentials
+Default Pass: Root
+
+# reference
 Original Reference: https://milvus.io/docs/install_standalone-docker.md
 
+# example
 ![attu](https://github.com/oktay-be/milvus/assets/55450535/ca329a67-60ae-465e-862a-65bbf608fd0d)
