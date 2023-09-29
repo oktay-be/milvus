@@ -11,3 +11,4 @@ zilliz/attu:v2.2.6 is added
 
 Original Reference: https://milvus.io/docs/install_standalone-docker.md
 
+![attu](https://github.com/oktay-be/milvus/assets/55450535/ca329a67-60ae-465e-862a-65bbf608fd0d)
